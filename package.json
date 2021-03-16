@@ -1,8 +1,8 @@
 {
   "name": "i18next-browser-languagedetector",
-  "version": "6.0.1",
+  "version": "6.0.1-patch.1",
   "description": "language detector used in browser environment for i18next",
-  "main": "./dist/cjs/i18nextBrowserLanguageDetector.js",
+  "main": "./index.js",
   "module": "./dist/esm/i18nextBrowserLanguageDetector.js",
   "types": "./index.d.ts",
   "keywords": [
